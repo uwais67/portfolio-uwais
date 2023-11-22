@@ -311,6 +311,6 @@ export const projects = [
     tags: ["REACTJS", "RENDER", "JAVASCRIPT", "EMAILJS"],
     category: "Web development",
     github: "https://github.com/uwais67/personal-portfolio",
-    webapp: "https://portfolio.netlify.app",
+    webapp: "https://portfolio-uwais-f92t.vercel.app/",
   },
 ];
